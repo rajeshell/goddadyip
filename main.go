@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	domain   = "YOUR DOMAIN" //Your registered domain name eg. abcd.com
+	domain   = "<YOUR DOMAIN>" //Your registered domain name eg. abcd.com
 	hostname = "<YOUR SUBDOMAIN NAME>" // Use the Name given in A record 
 	key      = "<YOUR GODADDY API KEY>" //API Key
 	secret   = "<YOUR GODADDY SECRET"  //Secrete Text 
