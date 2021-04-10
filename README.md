@@ -1,5 +1,5 @@
 # goddadyip
 Create Dyanmic IP for your Godaddy Domain using this utility </br>
-Create a A record in Godaddy 
-Create an API key and copy the key and secrete to be used here 
-Replace the Constant values in the script and run it 
+Create an 'A' record in Godaddy <a href="https://support.cloudways.com/creating-a-record-godaddy/">How to create 'A' record in Godaddy</a> </br>
+Create an API key for "Production" and copy the key and secrete to be used here <a href="https://developer.godaddy.com/keys">https://developer.godaddy.com/keys</a>  </br>
+Replace the Constant values in the script build and run it  </br>
